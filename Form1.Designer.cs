@@ -123,7 +123,7 @@
             Controls.Add(resultRichTextBox);
             Controls.Add(originalRichTextBox);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Шифр Гронсфельда";
             ResumeLayout(false);
             PerformLayout();
         }
